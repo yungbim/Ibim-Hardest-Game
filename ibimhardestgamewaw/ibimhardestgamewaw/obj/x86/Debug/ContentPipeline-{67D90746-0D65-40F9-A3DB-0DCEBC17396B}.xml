@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>mapuno.png</Source>
+      <Name>mapuno</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewaw\bin\x86\Debug\Content\mapuno.xnb</Output>
+      <Time>2017-04-13T16:47:18.7320166-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mapdos.png</Source>
+      <Name>mapdos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewaw\bin\x86\Debug\Content\mapdos.xnb</Output>
+      <Time>2017-04-13T16:47:26.103501-07:00</Time>
+    </Item>
+    <Item>
+      <Source>maptres.png</Source>
+      <Name>maptres</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewaw\bin\x86\Debug\Content\maptres.xnb</Output>
+      <Time>2017-04-13T16:47:32.8129793-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mapquatro.png</Source>
+      <Name>mapquatro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewaw\bin\x86\Debug\Content\mapquatro.xnb</Output>
+      <Time>2017-04-13T16:47:40.4405573-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mapsinco.png</Source>
+      <Name>mapsinco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewaw\bin\x86\Debug\Content\mapsinco.xnb</Output>
+      <Time>2017-04-13T16:47:45.5655515-07:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewaw\bin\x86\Debug\Content\pixel.xnb</Output>
+      <Time>2017-04-27T16:27:39.3256488-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{67D90746-0D65-40F9-A3DB-0DCEBC17396B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewawContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewaw\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewaw\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\VisitorDL1\Desktop\ibimhardestgamewaw\ibimhardestgamewaw\ibimhardestgamewaw\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-13T14:29:47.9309205-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
